@@ -28,4 +28,5 @@ _**I'm a frontEnd Developer**_
  [My favorite CSS Channel Kevin Powell](https://www.youtube.com/kepowob)
  
  [Web stack Tutorial PedroTech](https://www.youtube.com/channel/UC8S4rDRZn6Z_StJ-hh7ph8g)
+ 
  They are my favorite stack channels, I learned a lot from them not only tutorials, but also advanced topics
