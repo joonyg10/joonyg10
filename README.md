@@ -30,3 +30,6 @@ _**I'm a frontEnd Developer**_
  [Web stack Tutorial PedroTech](https://www.youtube.com/channel/UC8S4rDRZn6Z_StJ-hh7ph8g)
  
  They are my favorite stack channels, I learned a lot from them not only tutorials, but also advanced topics
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joonyg10)](https://github.com/anuraghazra/github-readme-stats)
